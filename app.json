@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "fokin-weather",
     "slug": "fokin-weather",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "",
+    "githubUrl": "https://github.com/doomin91/fokin-weather"
   }
 }
